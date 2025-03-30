@@ -38,7 +38,7 @@
   <project remote="aosp" name="platform/prebuilts/rust" path="kernel_platform/prebuilts/rust" revision="442511af884f074018466f85b4daadd4b0ac0050" clone-depth="1" />
   <project remote="aosp" name="platform/tools/tradefederation/prebuilts" path="kernel_platform/prebuilts/tradefed" revision="fddb4c6cb91a580ee1f06536b8b5de15e98af638" clone-depth="1" />
   <project remote="aosp" name="platform/prebuilts/asuite" path="kernel_platform/prebuilts/asuite" revision="659188034e89b2456c4cea7e38c80c28589dafa5" clone-depth="1" />
-  <project remote="aosp" name="platform/prebuilts/bazel/linux-x86_64" path="kernel_platform/prebuilts/bazel/linux-x86_64"  revision="36c79f00e5229800d2aaa13fc42c301ec8ef1153" clone-depth="1" groups="ddk" />
+  <project remote="aosp" name="platform/prebuilts/bazel/linux-x86_64" path="kernel_platform/prebuilts/bazel/linux-x86_64"  revision="5c92123af5646d469fc53ef61994f5bca0306f66" clone-depth="1" groups="ddk" />
   <project remote="aosp" name="platform/prebuilts/build-tools" path="kernel_platform/prebuilts/build-tools" revision="5c0b50c49d7c958c05cd3050e43f4772003df800" clone-depth="1" groups="ddk" >
     <linkfile dest="kernel_platform/build/prebuilts/build-tools" src="."/>
   </project>
