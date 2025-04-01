@@ -33,8 +33,6 @@
   <project remote="aosp" name="platform/external/toybox" path="kernel_platform/external/toybox" revision="91f90361fc563025e6d152d68d2072109500d602" groups="ddk" />
   <project remote="aosp" name="platform/external/zlib" path="kernel_platform/external/zlib" revision="b34cd2e4371556e913ad9801a924a891c74d1463" groups="ddk" />
   <project remote="aosp" name="platform/external/zopfli" path="kernel_platform/external/zopfli" revision="36c79f00e5229800d2aaa13fc42c301ec8ef1153" groups="ddk" />
-  <project remote="clo-la" name="kernel_platform/external/dtc" path="kernel_platform/external/dtc" revision="3a8c1bbce993f9143835c7f40eeefcdf948cfaf5" upstream="refs/heads/kernel.build.lnx.1.0.r15-rel" clone-depth="1"/>
-  <project remote="clo-la" name="kernel_platform/external/stardoc" path="kernel_platform/external/stardoc" revision="0d74fed6f8d0844f696771e71bc0b071cae99021" upstream="refs/heads/ks-kernel.lnx.3.0.r1-rel" clone-depth="1"/>
   <project remote="aosp" name="platform/prebuilts/rust" path="kernel_platform/prebuilts/rust" revision="442511af884f074018466f85b4daadd4b0ac0050" clone-depth="1" />
   <project remote="aosp" name="platform/tools/tradefederation/prebuilts" path="kernel_platform/prebuilts/tradefed" revision="fddb4c6cb91a580ee1f06536b8b5de15e98af638" clone-depth="1" />
   <project remote="aosp" name="platform/prebuilts/asuite" path="kernel_platform/prebuilts/asuite" revision="659188034e89b2456c4cea7e38c80c28589dafa5" clone-depth="1" />
