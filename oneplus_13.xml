@@ -19,6 +19,7 @@
   <project remote="aosp" name="platform/external/libcap-ng" path="kernel_platform/external/libcap-ng" revision="2bcc92ae19481dd2b8d3ce3abdfbbee49261abe6" groups="ddk-external" />
   <project remote="aosp" name="platform/external/libcap" path="kernel_platform/external/libcap" revision="8729338c078737da57a8b63ee88016799dfb4cdb" groups="ddk-external" />
   <project remote="aosp" name="platform/external/bazel-skylib" path="kernel_platform/external/bazel-skylib" revision="6b103c40d8113f001475d5e13672922ef2aa0e5a" groups="ddk-external" />
+  <project remote="aosp" name="platform/external/dtc" path="kernel_platform/external/dtc" revision="2ec107c70426fb90c1ed0ac14877c4322e8ee12f" groups="ddk-external" />
   <project remote="aosp" name="platform/external/bazelbuild-bazel-central-registry" path="kernel_platform/external/bazelbuild-bazel-central-registry" revision="7018452ffac4fc070b29d5c5c872bac3c746a06a" groups="ddk-external" />
   <project remote="aosp" name="platform/external/bazelbuild-platforms" path="kernel_platform/external/bazelbuild-platforms" revision="04d937168075c80205c96f31752000e9de759adb" groups="ddk-external" />
   <project remote="aosp" name="platform/external/bazelbuild-apple_support" path="kernel_platform/external/bazelbuild-apple_support" revision="f6003e1e3763f8aad9fb9acae79cfa5fff9ae988" groups="ddk-external" />
